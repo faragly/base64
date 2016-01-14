@@ -1,0 +1,14 @@
+{
+  "name": "base64",
+  "version": "1.0.0",
+  "description": "base64 encode / decode",
+  "main": "dist/base64.js",
+  "author": "Rivasense Team",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {},
+  "license": "BSD-2-Clause"
+}
